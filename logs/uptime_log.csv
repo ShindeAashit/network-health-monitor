@@ -1,0 +1,27 @@
+timestamp,host,label,status,latency_ms
+2026-04-14 08:23:05,8.8.8.8,Google DNS,DOWN,N/A
+2026-04-14 08:23:49,8.8.8.8,Google DNS,DOWN,N/A
+2026-04-14 08:23:54,8.8.4.4,Google DNS backup,UP,857.33 ms
+2026-04-14 08:23:54,1.1.1.1,Cloudflare DNS,UP,11.72 ms
+2026-04-14 08:23:54,192.168.1.1,Home Router,UP,9.5 ms
+2026-04-14 08:23:54,google.com,Google,UP,117.16 ms
+2026-04-14 08:24:55,8.8.8.8,Google DNS,UP,73.25 ms
+2026-04-14 08:24:58,8.8.4.4,Google DNS backup,UP,20.53 ms
+2026-04-14 08:24:58,1.1.1.1,Cloudflare DNS,UP,18.57 ms
+2026-04-14 08:24:58,192.168.1.1,Home Router,UP,17.87 ms
+2026-04-14 08:24:58,google.com,Google,UP,34.71 ms
+2026-04-14 08:26:05,8.8.8.8,Google DNS,DOWN,N/A
+2026-04-14 08:26:05,8.8.4.4,Google DNS backup,UP,116.72 ms
+2026-04-14 08:26:05,1.1.1.1,Cloudflare DNS,UP,17.88 ms
+2026-04-14 08:26:05,192.168.1.1,Home Router,UP,18.43 ms
+2026-04-14 08:26:05,google.com,Google,UP,171.31 ms
+2026-04-14 08:27:07,8.8.8.8,Google DNS,UP,9.75 ms
+2026-04-14 08:27:09,8.8.4.4,Google DNS backup,UP,81.29 ms
+2026-04-14 08:27:10,1.1.1.1,Cloudflare DNS,UP,8.69 ms
+2026-04-14 08:27:10,192.168.1.1,Home Router,UP,8.96 ms
+2026-04-14 08:27:10,google.com,Google,UP,33.45 ms
+2026-04-14 08:28:15,8.8.8.8,Google DNS,DOWN,N/A
+2026-04-14 08:28:15,8.8.4.4,Google DNS backup,UP,168.21 ms
+2026-04-14 08:28:15,1.1.1.1,Cloudflare DNS,UP,17.7 ms
+2026-04-14 08:28:15,192.168.1.1,Home Router,UP,10.44 ms
+2026-04-14 08:28:15,google.com,Google,UP,35.2 ms

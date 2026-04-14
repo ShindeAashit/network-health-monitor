@@ -1,0 +1,5 @@
+# No external libraries needed for core functionality
+# stdlib only: subprocess, smtplib, csv, time, logging
+
+# Optional — for prettier CLI output:
+# colorama
