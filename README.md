@@ -15,7 +15,7 @@ This project monitors network hosts using ICMP ping, logs uptime data, and sends
 
 ## How to run
 ```
-git clone <your-repo>
+git clone network-health-monitor
 cd network-health-monitor
 python monitor.py
 ```
