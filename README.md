@@ -24,7 +24,6 @@ python monitor.py
 
 Update `config.py` with your email credentials before running the project.
 
-⚠️ Note: Do NOT upload real credentials to GitHub. Use environment variables for production use.
 
 ## 📸 Output Screenshots
 
