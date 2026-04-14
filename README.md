@@ -35,5 +35,5 @@ Update `config.py` with your email credentials before running the project.
 ![Output2](outputs/network-health-monitor-csv.png)
 
 ### Alert Trigger Output
-![Output3](outputs/1000086765.png)
+![Output3](outputs/1000086765.jpg)
 
